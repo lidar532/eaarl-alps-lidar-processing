@@ -1,5 +1,13 @@
 # Airborne Lidar Processing System (ALPS)
 
+## New [eaarl.net](https://www.eaarl.net) web site!
+A new website has been created which hosts a number of raw original data sets
+in support of educational use of the data and the open source processing software
+contained here. The new site is: [https://www.eaarl.net](https://www.eaarl.net/).
+A new `Dockerized` image is available after 9/1/2023 on the website which eliminates
+the need to use the install process outlined below.
+
+## About Alps
 The Airborne Lidar Processing System (ALPS) was used to process data acquired
 by the EAARL-A and EAARL-B lidar systems. The EAARL sensors were operational
 between 2001 and 2014. The USGS has no plans for further development or support
